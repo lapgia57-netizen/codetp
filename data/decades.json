@@ -1,0 +1,70 @@
+{
+  "decades": [
+    {
+      "id": "1950s",
+      "label": "1950s",
+      "items": [
+        {
+          "title": "Váy xòe kiểu vintage",
+          "year": 1955,
+          "description": "Váy xòe eo nhỏ, phổ biến trong phong cách nữ tính của thập niên 50.",
+          "image": "images/1950s-dress.jpg",
+          "tags": ["váy", "vintage", "elegant"],
+          "decadeLabel": "1950s"
+        },
+        {
+          "title": "Áo khoác dài nam",
+          "year": 1958,
+          "description": "Áo khoác dạ dài, phom cổ điển.",
+          "image": "images/1950s-coat.jpg",
+          "tags": ["áo khoác", "nam"],
+          "decadeLabel": "1950s"
+        }
+      ]
+    },
+    {
+      "id": "1970s",
+      "label": "1970s",
+      "items": [
+        {
+          "title": "Quần jean loe",
+          "year": 1974,
+          "description": "Quần jeans ống loe, biểu tượng của phong cách thập niên 70.",
+          "image": "images/1970s-jeans.jpg",
+          "tags": ["jeans", "retro"],
+          "decadeLabel": "1970s"
+        },
+        {
+          "title": "Áo thun tie-dye",
+          "year": 1971,
+          "description": "Áo tie-dye đầy màu sắc gắn liền với phong trào hippie.",
+          "image": "images/1970s-tie-dye.jpg",
+          "tags": ["áo", "tie-dye", "hippie"],
+          "decadeLabel": "1970s"
+        }
+      ]
+    },
+    {
+      "id": "1990s",
+      "label": "1990s",
+      "items": [
+        {
+          "title": "Áo khoác bomber",
+          "year": 1998,
+          "description": "Bomber jacket kết hợp phong cách đường phố thập niên 90.",
+          "image": "images/1990s-bomber.jpg",
+          "tags": ["áo khoác", "street"],
+          "decadeLabel": "1990s"
+        },
+        {
+          "title": "Váy slip dress",
+          "year": 1996,
+          "description": "Váy mỏng, tối giản, thường mặc kèm áo len bên trong.",
+          "image": "images/1990s-slip.jpg",
+          "tags": ["váy", "minimal"],
+          "decadeLabel": "1990s"
+        }
+      ]
+    }
+  ]
+}
